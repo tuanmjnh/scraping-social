@@ -20,9 +20,9 @@ timeout_load=30
 # Cấu hình Telegram
 # ==========================
 # Token bot Telegram
-telegram_token=8434126925:AAHcuvLkscCyMm6PNKOeNCtZdp5w7sI3AiI
+telegram_token=your token bot Telegram
 # Channel ID Telegram
-telegram_chat=@TMScrapingTest
+telegram_chat=your Channel ID Telegram
 # Tắt hiển thị preview link
 disable_web_page_preview=False
 
