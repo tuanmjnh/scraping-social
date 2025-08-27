@@ -1,0 +1,10 @@
+.DS_Store
+.thumbs.db
+
+# Build directories and files
+.vs
+build
+dist
+logs
+links
+tiktok.spec
