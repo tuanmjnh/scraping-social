@@ -1,0 +1,33 @@
+# ==========================
+# Cấu hình Hệ thống
+# ==========================
+# Số giây thực hiện check lại TikTok
+interval_tiktok=60
+# Số giây thực hiện check lại YouTube
+interval_youtube=60
+# Số giây delay khởi đầu cho mỗi thread
+initial_delay=6
+# Số giây delay giữa các lần gửi Telegram
+send_delay=6
+# Giới hạn số video mới nhất cần check
+max_videos=5
+# Ẩn trình duyệt
+headless=True
+# timeout load page
+timeout_load=30
+
+# ==========================
+# Cấu hình Telegram
+# ==========================
+# Token bot Telegram
+telegram_token=8434126925:AAHcuvLkscCyMm6PNKOeNCtZdp5w7sI3AiI
+# Channel ID Telegram
+telegram_chat=@TMScrapingTest
+# Tắt hiển thị preview link
+disable_web_page_preview=False
+
+# ==========================
+# Cấu hình file kênh
+# ==========================
+tiktok_file=channel_tiktok.txt
+youtube_file=channel_youtube.txt
